@@ -1,0 +1,42 @@
+.title{
+    border: 2px solid black;
+    border-radius: 6px;
+    background-color: white;
+    filter: drop-shadow(5px 5px 8px white);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bolder;
+    padding: 10px;
+}
+.sub-title{
+    max-width: fit-content;
+    font-size: 1rem;
+    margin: 25px 0px 0px 10px;
+    padding: 6px;
+    text-align: left;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+    border: 1px solid white;
+    border-radius: 5px;
+    background-color: white;
+    filter: blur(0.4px);
+    transform: ease 1ms;
+    filter: drop-shadow(2px 2px 2px white);
+}
+
+.sub-title:hover{
+    cursor: pointer;
+    text-decoration: underline;
+    transform: scale(1.05);
+    font-weight: bolder;
+}
+
+.underline:hover{
+    text-decoration: underline;
+}
+
+.cointainer{
+    width: 95%;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
