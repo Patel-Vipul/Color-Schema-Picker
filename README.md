@@ -16,5 +16,5 @@ Built using **HTML, CSS, and JavaScript** only (no frameworks).
 ---
 
 ## 🖥️ Demo
-👉 [Live Demo](https://Color-Schema-Picker.github.io/your-repo-name/)  
+👉 [Live Demo](https://patel-vipul.github.io/Color-Schema-Picker/)  
 
